@@ -1,1 +1,11 @@
-test
+***TEST OTA***
+
+*Fix Build*
+
+-*FIXED*-
+
+* Camera
+* Offline charging
+* UI lags
+* Temporary change recovery (From TWRP to Stock)
+* Add apps
