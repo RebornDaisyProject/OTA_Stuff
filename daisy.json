@@ -1,13 +1,1 @@
-{
-  "response": [
-    {
-      "datetime": 1588278959,
-      "filename": "test.zip",
-      "id": "ef1bd6d4f9a18bcc29e220034a0d6aa7",
-      "size": 4472832,
-      "romtype": "UNOFFICIAL",
-      "url": "https://github.com/scarymen1325/OTA_Stuff/raw/master/test.zip",
-      "version": "v3.0.4",
-    }
-  ]
-}
+{ "response": [ { "datetime": 1601581635, "filename": "RROS-Q-8.6.1-20201001-daisy-Unofficial.zip", "id": "c80cc324d737c3ebbd646698d7dd392fa4533a4ee1b007d79edff16f7a5ea697", "romtype": "Unofficial", "size": 976147400, "url": "https://ota.resurrectionremix.com/ten/daisy/RROS-Q-8.6.1-20201001-daisy-Unofficial.zip", "version": "8.6.1"  }]}
